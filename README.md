@@ -262,8 +262,6 @@ If no models are listed, see [Troubleshooting](#troubleshooting-common-issues).
    docker compose down && docker compose up -d
    ```
 
-4. Report to OpenSearch GitHub.
-
 ### Issue 5: Dashboards Fails to Load
 
 **Symptoms**: http://localhost:5601 returns errors (e.g., 502, timeout).
